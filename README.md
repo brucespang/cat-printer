@@ -1,9 +1,4 @@
-![Cat Printer](./media/hackoclock.jpg)
-
-This project allows you to use the MXW01 thermal cat printer with Python. It
-provides a command-line interface to print images and markdown files.
-
-It is a fork of **[jeremy46231/MXW01-catprinter](https://github.com/rbaron/catprinter)**
+This is a tool to print to the MXW01 thermal cat printer, and is a fork of **[jeremy46231/MXW01-catprinter](https://github.com/rbaron/catprinter)**. It is a CLI to print images and markdown files. 
 
 It has been tested with the following printers:
 
